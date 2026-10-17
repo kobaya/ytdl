@@ -3,8 +3,7 @@
 Aplicativo para baixar o **áudio** de vídeos, faixas e playlists do YouTube e do
 YouTube Music. Cole o link e o arquivo é salvo no seu computador.
 
-Este repositório serve apenas para **distribuir os arquivos prontos**. O código
-não fica aqui.
+Este repositório serve apenas para **distribuir os arquivos prontos**. 
 
 ## Baixar
 
