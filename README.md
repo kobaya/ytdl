@@ -10,12 +10,12 @@ não fica aqui.
 
 | Sistema | Arquivo | Tamanho |
 | --- | --- | --- |
-| **Windows** (10/11, 64 bits) | [ytdl-0.1.0-windows-amd64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-windows-amd64.zip) | 130 MB |
-| Windows ARM (Snapdragon) | [ytdl-0.1.0-windows-arm64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-windows-arm64.zip) | 92 MB |
-| **macOS** (chip Apple) | [ytdl-0.1.0-darwin-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-darwin-arm64.tar.gz) | 58 MB |
-| macOS (Intel) | [ytdl-0.1.0-darwin-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-darwin-amd64.tar.gz) | 68 MB |
-| **Linux** | [ytdl-0.1.0-linux-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-linux-amd64.tar.gz) | 137 MB |
-| Linux ARM (Raspberry Pi) | [ytdl-0.1.0-linux-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.0/ytdl-0.1.0-linux-arm64.tar.gz) | 123 MB |
+| **Windows** (10/11, 64 bits) | [ytdl-0.1.1-windows-amd64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-windows-amd64.zip) | 130 MB |
+| Windows ARM (Snapdragon) | [ytdl-0.1.1-windows-arm64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-windows-arm64.zip) | 92 MB |
+| **macOS** (chip Apple) | [ytdl-0.1.1-darwin-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-darwin-arm64.tar.gz) | 58 MB |
+| macOS (Intel) | [ytdl-0.1.1-darwin-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-darwin-amd64.tar.gz) | 68 MB |
+| **Linux** | [ytdl-0.1.1-linux-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-linux-amd64.tar.gz) | 137 MB |
+| Linux ARM (Raspberry Pi) | [ytdl-0.1.1-linux-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.1/ytdl-0.1.1-linux-arm64.tar.gz) | 123 MB |
 
 Se estiver em dúvida, quase todo PC com Windows é o **amd64** (mesmo que o
 processador seja AMD ou Intel).
