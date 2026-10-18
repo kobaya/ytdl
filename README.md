@@ -7,17 +7,21 @@ Este repositório serve apenas para distribuição.
 
 ## Baixar
 
-| Sistema | Arquivo | Tamanho |
-| --- | --- | --- |
-| **Windows** (10/11, 64 bits) | [ytdl-0.1.2-windows-amd64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-windows-amd64.zip) | 130 MB |
-| Windows ARM | [ytdl-0.1.2-windows-arm64.zip](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-windows-arm64.zip) | 92 MB |
-| **macOS** (chip Apple) | [ytdl-0.1.2-darwin-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-darwin-arm64.tar.gz) | 58 MB |
-| macOS (Intel) | [ytdl-0.1.2-darwin-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-darwin-amd64.tar.gz) | 68 MB |
-| **Linux** | [ytdl-0.1.2-linux-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-linux-amd64.tar.gz) | 137 MB |
-| Linux ARM | [ytdl-0.1.2-linux-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/download/v0.1.2/ytdl-0.1.2-linux-arm64.tar.gz) | 123 MB |
+Os links abaixo usam o caminho da **última versão** e apontam sempre para o
+arquivo mais recente — não é preciso trocar nada a cada atualização.
+
+| Sistema | Arquivo |
+| --- | --- |
+| **Windows** (10/11, 64 bits) | [ytdl-windows-amd64.zip](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-windows-amd64.zip) |
+| Windows ARM | [ytdl-windows-arm64.zip](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-windows-arm64.zip) |
+| **macOS** (chip Apple) | [ytdl-darwin-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-darwin-arm64.tar.gz) |
+| macOS (Intel) | [ytdl-darwin-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-darwin-amd64.tar.gz) |
+| **Linux** | [ytdl-linux-amd64.tar.gz](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-linux-amd64.tar.gz) |
+| Linux ARM | [ytdl-linux-arm64.tar.gz](https://github.com/kobaya/ytdl/releases/latest/download/ytdl-linux-arm64.tar.gz) |
 
 Se estiver em dúvida, quase todo PC com Windows é o **amd64** (mesmo que o
-processador seja AMD ou Intel).
+processador seja AMD ou Intel). Para ver versões e tamanhos, use a
+[página de releases](https://github.com/kobaya/ytdl/releases).
 
 ## Como usar
 
@@ -68,7 +72,7 @@ no programa e escolha **Abrir**. Em Linux, se necessário: `chmod +x ytdl`.
 
 ## Verificação de integridade
 
-Cada pacote tem o tamanho listado acima. Se o download vier corrompido, o
+Cada release lista o tamanho de cada arquivo. Se o download vier corrompido, o
 descompactador vai acusar — baixe novamente.
 
 ## Componentes de terceiros
